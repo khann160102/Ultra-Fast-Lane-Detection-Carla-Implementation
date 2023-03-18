@@ -41,11 +41,11 @@ Note that the versions listed above are those that we have tested and confirmed 
 To use our project, follow these steps:
 
 1. Clone our repository: git clone https://github.com/yourusername/Ultra-Fast-Lane-Detection.git
-2. Install the required dependencies (See [Installation Tutorial](doc/INSTALL.md) for more information)
+2. Install the required dependencies (See [Installation Tutorial](/doc/INSTALL.md) for more information)
 3. Download the datasets and models from our Github page.
 4. Run the project using the provided scripts.
 
-For more detailed instructions on how to use our project, please see the documentation in the [Usage](doc/USAGE.md) file.
+For more detailed instructions on how to use our project, please see the documentation in the [Usage](/doc/USAGE.md) file.
 
 ## Results
 
@@ -53,4 +53,4 @@ We plan to test our project with other datasets in the future and will update th
 
 ## License
 
-Our project is released under the MIT license. Please see the LICENSE.md file for more information.
+Our project is released under the MIT license. Please see the [LICENSE.md](/LICENSE) file for more information.
