@@ -49,9 +49,9 @@ For more detailed instructions on how to use our project, please see the documen
 
 ## Results
 
-Here is a video of our test result on Town10HD dataset from CARLA:
+Here is a video of our test result on Town10HD dataset from CARLA (Click to open in [YouTube](https://youtu.be/vq4QJsRyKS0)):
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vq4QJsRyKS0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![IMAGE_ALT](https://img.youtube.com/vi/vq4QJsRyKS0/0.jpg)](https://youtu.be/vq4QJsRyKS0)
 
 We plan to test our project with other datasets in the future and will update the results accordingly. We have also provided visualizations of our results in the results directory.
 
