@@ -6,9 +6,9 @@
 
 [Ultra-Fast-Lane-Detection](https://github.com/cfzd/Ultra-Fast-Lane-Detection) is a cutting-edge project designed to detect lanes on the road in real-time, with a focus on enabling autonomous vehicles to navigate safely and effectively. Our team has adopted this project for use in our university's autonomous car project, building upon the original codebase with our own modifications and optimizations.
 
-We are pleased to share that the results of our work can be found on our [Github page](), providing an overview of our approach and the performance of our customized [Ultra-Fast-Lane-Detection](https://github.com/cfzd/Ultra-Fast-Lane-Detection) model.
+We are pleased to share that the results of our work can be found on our [Github page](https://github.com/khann160102/Ultra-Fast-Lane-Detection-Carla-Implementation), providing an overview of our approach and the performance of our customized [Ultra-Fast-Lane-Detection](https://github.com/cfzd/Ultra-Fast-Lane-Detection) model.
 
-In addition to leveraging the capabilities of [Ultra-Fast-Lane-Detection](https://github.com/cfzd/Ultra-Fast-Lane-Detection), we have developed our own tool to generate datasets using CARLA. This tool has proven invaluable in facilitating the training of our models, and we encourage interested parties to explore the source code on our [Github page (in progress)]() for more information.
+In addition to leveraging the capabilities of [Ultra-Fast-Lane-Detection](https://github.com/cfzd/Ultra-Fast-Lane-Detection), we have developed our own tool to generate datasets using CARLA. This tool has proven invaluable in facilitating the training of our models, and we encourage interested parties to explore the source code on our [Github page (in progress)](https://github.com/khann160102/Ultra-Fast-Lane-Detection-Carla-Implementation) for more information.
 
 ## Project Overview
 
